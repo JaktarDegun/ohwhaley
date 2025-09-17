@@ -3,7 +3,7 @@ Title: theohwhaleypackagefortoday
 Version: 0.0.0.9000
 Authors@R: 
     person("Jaktar", "Degun", , "Jaktar.Degun@example.com", role = c("aut", "cre"))
-Description: its the ohwhaley package for today didnt you know
+Description: Its the ohwhaley package for today didnt you know.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
