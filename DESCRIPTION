@@ -1,7 +1,7 @@
 Package: ohwhaley
 Title: theohwhaleypackagefortoday
 Version: 0.0.0.9000
-Authors@R: c(
+Authors@R: 
     person("Jaktar", "Degun", , "Jaktar.Degun@example.com", role = c("aut", "cre"))
 Description: itstheohwhaleypackagefortodaydidntyouknow
 License: MIT + file LICENSE
