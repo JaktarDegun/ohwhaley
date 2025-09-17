@@ -1,9 +1,9 @@
 Package: ohwhaley
-Title: What the Package Does (theohwhaleypackagefortoday)
+Title: theohwhaleypackagefortoday
 Version: 0.0.0.9000
 Authors@R: c(
     person("Jaktar", "Degun", , "Jaktar.Degun@example.com", role = c("aut", "cre"))
-Description: What the package does (itstheohwhaleypackagefortodaydidntyouknow).
+Description: itstheohwhaleypackagefortodaydidntyouknow
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
